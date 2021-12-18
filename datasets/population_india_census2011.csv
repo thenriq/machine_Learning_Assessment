@@ -1,4 +1,4 @@
-﻿Sno,State / Union Territory,Population,Rural population,Urban population,Area,Density,Gender Ratio
+﻿Sno,state,Population,rural_population,urban_population,area,density,gender_ratio
 1,Uttar Pradesh,199812341,155317278,44495063,"240,928 km2 (93,023 sq mi)","828/km2 (2,140/sq mi)",912
 2,Maharashtra,112374333,61556074,50818259,"307,713 km2 (118,809 sq mi)",365/km2 (950/sq mi),929
 3,Bihar,104099452,92341436,11758016,"94,163 km2 (36,357 sq mi)","1,102/km2 (2,850/sq mi)",918
