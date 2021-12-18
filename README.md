@@ -1,10 +1,10 @@
 # Machine Learning Assessment - Scikit-Learn and Scipy-Stats
 
-***
+
 
 Machine Learning and Statistics - Assessment 2021 GMIT
 
-This repository contains Jupyter notebooks and other relevant files demonstrating my work on the Python packages  Scikit-Learn and Scipy-Stats
+This repository contains Jupyter notebooks and other relevant files demonstrating my work on the Python packages  **Scikit-Learn** and **Scipy-Stats**
 
 ***
 
@@ -26,6 +26,7 @@ Here's how to run the notebooks on this project:
 
 Have a look at the two notebooks in this repository in Jupyter.
 
+***
 
 ## Quick steps
 
