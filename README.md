@@ -26,7 +26,22 @@ Here's how to run the notebooks on this project:
 
 Have a look at the two notebooks in this repository in Jupyter.
 
+Some interesting aspects:
+
+-The notebook `scipy-stats.ipynb` has an interesting example of **Image Processing**. You can edit the parameters of the plots to see different effects (`ndimage.rotate(panda, value)`):
+```python
+from scipy import ndimage, misc
+from matplotlib import pyplot as plt
+panda = misc.face()
+#rotatation function of scipy for image – image rotated 135 degree
+panda_rotate = ndimage.rotate(panda, 135)
+plt.imshow(panda_rotate)
+plt.show()
+```
+
+
 ***
+<br>
 
 ## Quick viewing steps
 
