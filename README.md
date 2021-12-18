@@ -28,8 +28,18 @@ Have a look at the two notebooks in this repository in Jupyter.
 
 ***
 
-## Quick steps
+## Quick viewing steps
 
-The notebook can be viewed at the following image:
+The notebooks can also be viewed at the following image links:
+
+
+**Scikit-Learn:**
 
 [![nbviewer](https://raw.githubusercontent.com/jupyter/design/master/logos/Badges/nbviewer_badge.svg)](https://nbviewer.org/github/thenriq/machine_Learning_Assessment/blob/main/Scikit-Learn.ipynb)
+
+<br>
+
+**Scipy-Stats**
+
+[![nbviewer](https://raw.githubusercontent.com/jupyter/design/master/logos/Badges/nbviewer_badge.svg)](https://nbviewer.org/github/thenriq/machine_Learning_Assessment/blob/main/scipy-stats.ipynb)
+
