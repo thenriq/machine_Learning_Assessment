@@ -8,11 +8,15 @@ This repository contains Jupyter notebooks and other relevant files demonstratin
 
 ***
 
+<br>
+
 ## Install
 
 1. Download [Anaconda](https://www.anaconda.com/products/individual).
 2. Download [cmder](https://cmder.net/) if on Windows.
 3. Download the notebooks to your computer
+
+<br>
 
 ## Run
 
@@ -21,6 +25,8 @@ Here's how to run the notebooks on this project:
 1. Open cmder (or any other terminal)
 2. run `jupyter notebook`
 3. Go to browser
+
+<br>
 
 ## Explore
 
@@ -57,4 +63,14 @@ The notebooks can also be viewed at the following image links:
 **Scipy-Stats**
 
 [![nbviewer](https://raw.githubusercontent.com/jupyter/design/master/logos/Badges/nbviewer_badge.svg)](https://nbviewer.org/github/thenriq/machine_Learning_Assessment/blob/main/scipy-stats.ipynb)
+
+<br>
+
+<br>
+
+# Contact
+
+[Email: g00387821@gmit.ie](mailto:g00387821@gmit.ie)
+
+[Linkedin](https://www.linkedin.com/in/thiago-limait/)
 
